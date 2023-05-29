@@ -1,4 +1,4 @@
-<h1Background Color Picker</h1>
+<h1>Background Color Picker</h1>
 <p>The Background Color Picker is a great tool for anyone who wants to create a visually appealing online presence. With just a few clicks, you can find the perfect background color to match your brand or style.</p>
 
 Link to project: https://wewjr82.github.io/backgroundcolorpicker/
